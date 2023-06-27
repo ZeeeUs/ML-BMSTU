@@ -1,0 +1,8 @@
+*.doc
+**/*.doc
+*.docx
+**/*.docx
+**/bin
+**/.idea
+**/.vscode
+.DS_Store
